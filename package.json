@@ -1,0 +1,23 @@
+{
+  "packageManager": "yarn@4.1.1",
+  "name": "generate_bip-39_mnemonic",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "yarn node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CryptoH4ck3r/generate_bip-39_mnemonic.git"
+  },
+  "author": "CryptoHacker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CryptoH4ck3r/generate_bip-39_mnemonic/issues"
+  },
+  "homepage": "https://github.com/CryptoH4ck3r/generate_bip-39_mnemonic#readme",
+  "description": "",
+  "dependencies": {
+    "ethers": "^6.11.1"
+  }
+}
