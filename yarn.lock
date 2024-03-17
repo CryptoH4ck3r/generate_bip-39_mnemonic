@@ -57,11 +57,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"generate_bip-39_mnemonic@workspace:.":
+"generate_bip-39_mnemonic@npm:^1.0.0, generate_bip-39_mnemonic@workspace:.":
   version: 0.0.0-use.local
   resolution: "generate_bip-39_mnemonic@workspace:."
   dependencies:
     ethers: "npm:^6.11.1"
+    generate_bip-39_mnemonic: "npm:^1.0.0"
   languageName: unknown
   linkType: soft
 
