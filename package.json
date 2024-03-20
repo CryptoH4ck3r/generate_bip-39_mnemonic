@@ -18,7 +18,23 @@
   "homepage": "https://github.com/CryptoH4ck3r/generate_bip-39_mnemonic#readme",
   "description": "",
   "dependencies": {
+    "@fontsource/noto-sans": "^5.0.21",
+    "@fontsource/source-sans-pro": "^5.0.8",
+    "axios": "^1.6.8",
+    "bbguai": "^1.0.5",
+    "bootstrap": "^5.3.3",
+    "chalk": "^5.3.0",
+    "crypto-price-checker-oooooyoung": "^1.0.7",
     "ethers": "^6.11.1",
-    "generate_bip-39_mnemonic": "^1.0.0"
+    "generate_bip-39_mnemonic": "^1.0.0",
+    "lodash": "^4.17.21",
+    "next": "^14.1.4",
+    "node-fetch": "^3.3.2",
+    "react": "^18.2.0",
+    "react-colorful": "^5.6.1",
+    "react-dom": "^18.2.0",
+    "shell-oooooyoung": "^1.1.9",
+    "tslib": "^2.6.2",
+    "vue": "^3.4.21"
   }
 }
